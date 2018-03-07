@@ -34,6 +34,12 @@
         <div class="col-md-2">
         </div>
         <div class="col-md-6">
+                  {% if error %}
+            {{ error }}
+            <br/>
+            <br/>
+
+            {% endif %}
             <form action="{% url 'cloudproject:SignupView' %}" method="POST">
                 {% csrf_token %}
                 <div class="form-group">

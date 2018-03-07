@@ -29,7 +29,7 @@
             </button>
 
 
-            <a class="navbar-brand" href="" style="color: white">Hotel Deluxe</a>
+            <a class="navbar-brand" href="{% url 'cloudproject:HomePageView' %}" style="color: white">Hotel Deluxe</a>
 
 
         </div>
@@ -37,7 +37,7 @@
             <ul class="nav navbar-nav navbar-right">
 
 
-                <li><a href="#" style="color: white" onClick="document.getElementById('logout').submit()">Logout</a></li>
+                <li><a href="{% url 'cloudproject:LogoutView' %}" style="color: white" onClick="document.getElementById('logout').submit()">Logout</a></li>
 
 
 

@@ -1,7 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1724b42-eb5f-430c-b46e-1fcad51ce32b" name="Default" comment="" />
+    <list default="true" id="f1724b42-eb5f-430c-b46e-1fcad51ce32b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/models.py" afterPath="$PROJECT_DIR$/cloudproject/models.py" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/bootstrap-datepicker.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/cs-select.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/cs-skin-border.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/flaticon.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/flexslider.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/icomoon.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/owl.carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/owl.theme.default.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/superfish.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/css/themify-icons.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/flaticon/flaticon.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/flaticon/flaticon.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/flaticon/flaticon.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/flaticon/flaticon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/flaticon/flaticon.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/flaticon/flaticon.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/flaticon/license.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/icomoon/icomoon.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/icomoon/icomoon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/icomoon/icomoon.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/icomoon/icomoon.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/themify/themify.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/themify/themify.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/themify/themify.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/fonts/themify/themify.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/arrow_down_input.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/hotel_feature_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/hotel_feture_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/hotel_feture_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/image-1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/image-2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/image-3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/image-4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/image-5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/image-6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/loc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/slider1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/slider2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/slider3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/svg/bicycle14.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/svg/car72.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/svg/cup74.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/svg/massage2.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/svg/restaurant23.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/svg/swimming21.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/tab_img_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/tab_img_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/tab_img_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/tab_img_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/tab_img_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/images/tab_img_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/bootstrap-datepicker.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/classie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/google_map.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/hoverIntent.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/jquery-2.1.4.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/jquery.countTo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/jquery.flexslider-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/jquery.stellar.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/jquery.waypoints.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/modernizr-2.6.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/owl.carousel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/selectFx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/js/superfish.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/_bootstrap-compass.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/_bootstrap-mincer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/_bootstrap-sprockets.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/_bootstrap.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_alerts.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_badges.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_breadcrumbs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_button-groups.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_carousel.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_close.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_code.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_component-animations.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_dropdowns.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_glyphicons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_input-groups.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_jumbotron.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_labels.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_list-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_media.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_modals.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_navbar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_navs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_normalize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_pager.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_panels.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_popovers.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_print.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_progress-bars.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_responsive-embed.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_responsive-utilities.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_scaffolding.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_tables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_theme.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_thumbnails.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_tooltip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_type.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_utilities.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/_wells.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_alerts.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_background-variant.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_border-radius.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_center-block.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_clearfix.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_gradients.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_grid-framework.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_hide-text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_image.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_labels.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_list-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_nav-divider.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_opacity.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_panels.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_progress-bar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_reset-filter.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_reset-text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_resize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_size.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_tab-focus.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_table-row.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_text-overflow.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/static/sass/style.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/templates/base.html" afterPath="$PROJECT_DIR$/cloudproject/templates/base.html" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/templates/blog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/templates/contact.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/templates/hotel.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/templates/index.html" afterPath="$PROJECT_DIR$/cloudproject/templates/index.html" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/templates/room.html" afterPath="$PROJECT_DIR$/cloudproject/templates/room.html" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/templates/services.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/templates/signin.html" afterPath="$PROJECT_DIR$/cloudproject/templates/signin.html" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/templates/signinad.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/templates/signup.html" afterPath="$PROJECT_DIR$/cloudproject/templates/signup.html" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/urls.py" afterPath="$PROJECT_DIR$/cloudproject/urls.py" />
+      <change beforePath="$PROJECT_DIR$/cloudproject/views.py" afterPath="$PROJECT_DIR$/cloudproject/views.py" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change beforePath="$PROJECT_DIR$/skeleton/local_settings.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/skeleton/settings.py" afterPath="$PROJECT_DIR$/skeleton/settings.py" />
+      <change beforePath="$PROJECT_DIR$/skeleton/wsgi.py" afterPath="$PROJECT_DIR$/skeleton/wsgi.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2-2.7.1.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2-2.7.1.dist-info/INSTALLER" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2-2.7.1.dist-info/METADATA" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2-2.7.1.dist-info/RECORD" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2-2.7.1.dist-info/WHEEL" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2-2.7.1.dist-info/metadata.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2-2.7.1.dist-info/top_level.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/__init__.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/_ipaddress.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/_ipaddress.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/_json.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/_json.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/_psycopg.cp36-win_amd64.pyd" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/_psycopg.cp36-win_amd64.pyd" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/_range.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/_range.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/errorcodes.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/errorcodes.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/extensions.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/extensions.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/extras.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/extras.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/pool.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/pool.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/psycopg1.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/psycopg1.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/sql.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/sql.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/__init__.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/dbapi20.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/dbapi20.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/dbapi20_tpc.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/dbapi20_tpc.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_async.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_async.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_async_keyword.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_async_keyword.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_bug_gc.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_bug_gc.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_cancel.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_cancel.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_connection.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_connection.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_copy.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_copy.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_cursor.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_cursor.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_dates.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_dates.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_errcodes.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_errcodes.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_extras_dictcursor.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_extras_dictcursor.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_fast_executemany.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_fast_executemany.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_green.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_green.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_ipaddress.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_ipaddress.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_lobject.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_lobject.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_module.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_module.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_notify.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_notify.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_psycopg2_dbapi20.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_psycopg2_dbapi20.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_quote.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_quote.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_replication.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_replication.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_sql.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_sql.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_transaction.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_transaction.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_types_basic.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_types_basic.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_types_extras.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_types_extras.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_with.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/test_with.py" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/testutils.py" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/psycopg2/tests/testutils.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +227,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloudproject/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -24,12 +237,20 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloudproject/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="207">
+              <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
-                <element signature="e#357#651#0" expanded="false" />
-                <element signature="e#682#1149#0" expanded="false" />
+                <element signature="e#290#340#0" expanded="false" />
+                <element signature="e#372#1072#0" expanded="false" />
+                <element signature="e#1104#1983#0" expanded="false" />
+                <element signature="e#2013#2152#0" expanded="false" />
+                <element signature="e#2182#2320#0" expanded="false" />
+                <element signature="e#2353#2959#0" expanded="false" />
+                <element signature="e#2995#3505#0" expanded="false" />
+                <element signature="e#3542#4114#0" expanded="false" />
+                <element signature="e#4148#4849#0" expanded="false" />
+                <element signature="e#4881#5074#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -38,58 +259,15 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloudproject/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding>
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#6590#6596#0" expanded="true" />
-                <element signature="e#6597#6603#0" expanded="true" />
-                <element signature="e#6604#6610#0" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1673#1679#0" expanded="true" />
+                <element signature="e#1680#1686#0" expanded="true" />
+                <element signature="e#1687#1693#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addroom.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloudproject/templates/addroom.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="66" column="91" lean-forward="false" selection-start-line="66" selection-start-column="91" selection-end-line="66" selection-end-column="91" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="room.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloudproject/templates/room.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="10" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloudproject/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#565#938#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -98,8 +276,60 @@
         <entry file="file://$PROJECT_DIR$/cloudproject/templates/signin.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="714">
-              <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <caret line="42" column="61" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="61" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloudproject/templates/user.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addroom.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloudproject/templates/addroom.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="827">
+              <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skeleton/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1544">
+              <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skeleton/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookroom.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cloudproject/templates/bookroom.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="54" column="50" lean-forward="false" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+              <folding>
+                <element signature="e#1718#1724#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,25 +372,29 @@
         <option value="$PROJECT_DIR$/cloudproject/templates/admin.html" />
         <option value="$PROJECT_DIR$/cloudproject/templates/adddelroom.html" />
         <option value="$PROJECT_DIR$/cloudproject/table.py" />
-        <option value="$PROJECT_DIR$/cloudproject/templates/base.html" />
-        <option value="$PROJECT_DIR$/cloudproject/templates/signup.html" />
         <option value="$PROJECT_DIR$/cloudproject/forms.py" />
         <option value="$PROJECT_DIR$/skeleton/urls.py" />
-        <option value="$PROJECT_DIR$/cloudproject/templates/signin.html" />
-        <option value="$PROJECT_DIR$/cloudproject/urls.py" />
-        <option value="$PROJECT_DIR$/cloudproject/templates/room.html" />
-        <option value="$PROJECT_DIR$/cloudproject/views.py" />
         <option value="$PROJECT_DIR$/cloudproject/templates/addroom.html" />
-        <option value="$PROJECT_DIR$/cloudproject/templates/index.html" />
         <option value="$PROJECT_DIR$/skeleton/localsettings.py" />
         <option value="$PROJECT_DIR$/skeleton/local_settings.py" />
+        <option value="$PROJECT_DIR$/cloudproject/templates/room.html" />
+        <option value="$PROJECT_DIR$/cloudproject/templates/updateprice.html" />
+        <option value="$PROJECT_DIR$/cloudproject/templates/removeroom.html" />
+        <option value="$PROJECT_DIR$/cloudproject/templates/signup.html" />
+        <option value="$PROJECT_DIR$/cloudproject/templates/signin.html" />
+        <option value="$PROJECT_DIR$/cloudproject/templates/bookroom.html" />
+        <option value="$PROJECT_DIR$/cloudproject/templates/user.html" />
+        <option value="$PROJECT_DIR$/cloudproject/models.py" />
+        <option value="$PROJECT_DIR$/cloudproject/templates/base.html" />
+        <option value="$PROJECT_DIR$/cloudproject/urls.py" />
+        <option value="$PROJECT_DIR$/cloudproject/views.py" />
+        <option value="$PROJECT_DIR$/cloudproject/templates/index.html" />
         <option value="$PROJECT_DIR$/skeleton/settings.py" />
         <option value="$PROJECT_DIR$/skeleton/wsgi.py" />
-        <option value="$PROJECT_DIR$/cloudproject/models.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -182,8 +416,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,10 +423,22 @@
               <item name="skeleton" type="b2602c69:ProjectViewProjectNode" />
               <item name="skeleton" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,16 +558,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2470238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2470238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5029762" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -341,13 +586,13 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2470238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -365,62 +610,26 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cloudproject/models.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cloudproject/models.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/cloudproject/views.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="7" />
+          <line>32</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cloudproject/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloudproject/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-            <element signature="e#357#651#0" expanded="false" />
-            <element signature="e#682#1149#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloudproject/templates/addroom.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="91" lean-forward="false" selection-start-line="66" selection-start-column="91" selection-end-line="66" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloudproject/templates/room.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="10" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloudproject/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding>
-            <element signature="e#565#938#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cloudproject/templates/signin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -443,12 +652,11 @@
         <state relative-caret-position="5882">
           <caret line="346" column="14" lean-forward="false" selection-start-line="346" selection-start-column="14" selection-end-line="346" selection-end-column="14" />
           <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#6590#6596#0" expanded="true" />
-            <element signature="e#6597#6603#0" expanded="true" />
-            <element signature="e#6604#6610#0" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1673#1679#0" expanded="true" />
+            <element signature="e#1680#1686#0" expanded="true" />
+            <element signature="e#1687#1693#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -474,7 +682,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding>
-            <element signature="e#565#938#0" expanded="false" />
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#125#310#0" expanded="false" />
+            <element signature="e#336#834#0" expanded="false" />
+            <element signature="e#856#1166#0" expanded="false" />
+            <element signature="e#1195#1637#0" expanded="false" />
+            <element signature="e#1668#2061#0" expanded="false" />
+            <element signature="e#2084#2355#0" expanded="false" />
+            <element signature="e#2391#2599#0" expanded="false" />
+            <element signature="e#2622#2857#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -501,8 +717,16 @@
           <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
-            <element signature="e#357#651#0" expanded="false" />
-            <element signature="e#682#1149#0" expanded="false" />
+            <element signature="e#290#340#0" expanded="false" />
+            <element signature="e#372#1072#0" expanded="false" />
+            <element signature="e#1104#1983#0" expanded="false" />
+            <element signature="e#2013#2152#0" expanded="false" />
+            <element signature="e#2182#2320#0" expanded="false" />
+            <element signature="e#2353#2959#0" expanded="false" />
+            <element signature="e#2995#3505#0" expanded="false" />
+            <element signature="e#3542#4114#0" expanded="false" />
+            <element signature="e#4148#4849#0" expanded="false" />
+            <element signature="e#4881#5074#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -529,7 +753,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#565#938#0" expanded="false" />
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#125#310#0" expanded="false" />
+            <element signature="e#336#834#0" expanded="false" />
+            <element signature="e#856#1166#0" expanded="false" />
+            <element signature="e#1195#1637#0" expanded="false" />
+            <element signature="e#1668#2061#0" expanded="false" />
+            <element signature="e#2084#2355#0" expanded="false" />
+            <element signature="e#2391#2599#0" expanded="false" />
+            <element signature="e#2622#2857#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -548,8 +780,16 @@
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
-            <element signature="e#357#651#0" expanded="false" />
-            <element signature="e#682#1149#0" expanded="false" />
+            <element signature="e#290#340#0" expanded="false" />
+            <element signature="e#372#1072#0" expanded="false" />
+            <element signature="e#1104#1983#0" expanded="false" />
+            <element signature="e#2013#2152#0" expanded="false" />
+            <element signature="e#2182#2320#0" expanded="false" />
+            <element signature="e#2353#2959#0" expanded="false" />
+            <element signature="e#2995#3505#0" expanded="false" />
+            <element signature="e#3542#4114#0" expanded="false" />
+            <element signature="e#4148#4849#0" expanded="false" />
+            <element signature="e#4881#5074#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -576,7 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py" />
     <entry file="file://$PROJECT_DIR$/cloudproject/static/css/cs-select.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -599,113 +838,209 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloudproject/templates/signinad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cloudproject/static/images/slider1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloudproject/table.py" />
-    <entry file="file://$PROJECT_DIR$/cloudproject/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="31" column="74" lean-forward="false" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cloudproject/forms.py" />
     <entry file="file://$PROJECT_DIR$/cloudproject/templates/admin.html" />
-    <entry file="file://$PROJECT_DIR$/cloudproject/templates/signup.html">
+    <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skeleton/urls.py" />
-    <entry file="file://$PROJECT_DIR$/cloudproject/urls.py">
+    <entry file="file://$PROJECT_DIR$/cloudproject/templates/signinad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="-407">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloudproject/templates/room.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="10" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        <state relative-caret-position="373">
+          <caret line="47" column="59" lean-forward="false" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloudproject/templates/signin.html">
+    <entry file="file://$PROJECT_DIR$/cloudproject/templates/removeroom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state relative-caret-position="169">
+          <caret line="46" column="43" lean-forward="true" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <marker date="1520349047082" expanded="true" signature="945:986" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudproject/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudproject/templates/updateprice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="11" lean-forward="false" selection-start-line="36" selection-start-column="11" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudproject/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="126" column="5" lean-forward="false" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#125#310#0" expanded="false" />
+            <element signature="e#336#834#0" expanded="false" />
+            <element signature="e#856#1166#0" expanded="false" />
+            <element signature="e#1195#1637#0" expanded="false" />
+            <element signature="e#1668#2061#0" expanded="false" />
+            <element signature="e#2084#2355#0" expanded="false" />
+            <element signature="e#2391#2599#0" expanded="false" />
+            <element signature="e#2622#2857#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudproject/templates/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloudproject/templates/addroom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="91" lean-forward="false" selection-start-line="66" selection-start-column="91" selection-end-line="66" selection-end-column="91" />
+        <state relative-caret-position="827">
+          <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudproject/templates/hotel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="216" column="43" lean-forward="true" selection-start-line="216" selection-start-column="42" selection-end-line="216" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skeleton/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudproject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloudproject/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="207">
+          <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
-            <element signature="e#357#651#0" expanded="false" />
-            <element signature="e#682#1149#0" expanded="false" />
+            <element signature="e#290#340#0" expanded="false" />
+            <element signature="e#372#1072#0" expanded="false" />
+            <element signature="e#1104#1983#0" expanded="false" />
+            <element signature="e#2013#2152#0" expanded="false" />
+            <element signature="e#2182#2320#0" expanded="false" />
+            <element signature="e#2353#2959#0" expanded="false" />
+            <element signature="e#2995#3505#0" expanded="false" />
+            <element signature="e#3542#4114#0" expanded="false" />
+            <element signature="e#4148#4849#0" expanded="false" />
+            <element signature="e#4881#5074#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skeleton/local_settings.py" />
-    <entry file="file://$PROJECT_DIR$/skeleton/settings.py" />
-    <entry file="file://$PROJECT_DIR$/skeleton/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/cloudproject/templates/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="61" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudproject/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skeleton/local_settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skeleton/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1544">
+          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skeleton/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cloudproject/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#6590#6596#0" expanded="true" />
-            <element signature="e#6597#6603#0" expanded="true" />
-            <element signature="e#6604#6610#0" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1673#1679#0" expanded="true" />
+            <element signature="e#1680#1686#0" expanded="true" />
+            <element signature="e#1687#1693#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloudproject/models.py">
+    <entry file="file://$PROJECT_DIR$/cloudproject/templates/bookroom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="185">
+          <caret line="54" column="50" lean-forward="false" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
           <folding>
-            <element signature="e#565#938#0" expanded="false" />
+            <element signature="e#1718#1724#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
